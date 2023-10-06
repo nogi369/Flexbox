@@ -1,0 +1,9 @@
+.container {
+  display: inline-flex;
+}
+
+.Item {
+  padding: 10px;
+  margin: 10px;
+  background-color: skyblue;
+}

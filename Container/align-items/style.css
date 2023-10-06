@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  /* align-items: center; */
+  /* align-items: flex-start; */
+  /* align-items: flex-end; */
+  /* align-items: baseline; */
+  /* align-items: stretch; */
+}
+
+.Item {
+  padding: 10px;
+  margin: 10px;
+  background-color: skyblue;
+}
